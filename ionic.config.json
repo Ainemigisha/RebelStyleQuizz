@@ -1,0 +1,8 @@
+{
+  "name": "RebelStyleQuizz",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "b8d8e7ba"
+}
